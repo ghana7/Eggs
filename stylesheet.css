@@ -1,0 +1,34 @@
+body {
+	background-color: #444444;
+}
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #BBBBFF;
+	width:100%;
+	height:100%;
+	border-bottom: 2vw solid #66ff66;
+}
+.red {
+	background-color: #FFCCCC;
+	border: 1vw solid #FF9999;
+}
+.blue {
+	background-color:#CCCCFF;
+	border: 1vw solid #9999FF;
+}
+.green {
+	background-color:#CCFFCC;
+	border: 1vw solid #99FF99;
+}
+.yellow {
+	background-color:#FFFFCC;
+	border: 1vw solid #FFFF99;
+}
+.charselect {
+	width:22vw;
+	height:22vw;
+	display:inline-block;
+	font-family: 'Ubuntu', sans-serif;
+	text-align:center;
+	margin-top:0.5vw;
+}
